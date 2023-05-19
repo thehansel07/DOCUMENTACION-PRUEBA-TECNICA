@@ -1,0 +1,4 @@
+
+
+FROND-END-PERSONA =>    https://sistema-gestion-de-personas.netlify.app/persona/index
+BACK-END-PERSONA  =>    https://apipersona07.azurewebsites.net/swagger/index.html
